@@ -1,4 +1,4 @@
-## Circuit Simulator (C++)
+## Circuit Simulator (C++) [Vibe Coded]
 
 This repository contains a small C++ library for simulating digital circuits using operator-overloaded expressions. It supports:
 
