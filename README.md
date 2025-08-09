@@ -152,6 +152,6 @@ The code is intentionally compact and easy to extend:
 - Swap the evaluation strategy (e.g., topological sort) for enhanced diagnostics or cycle detection.
 
 ## License
-MIT (or your preferred license). Update as needed.
+MIT
 
 
